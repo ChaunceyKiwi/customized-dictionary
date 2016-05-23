@@ -1,0 +1,33 @@
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="dictionary_application" d:title="Dictionary application">
+	<h1>Dictionary application </h1>
+	<p>
+		An application to look up dictionary on Mac OS X.<br/>
+	</p>
+	<span class="column">
+		The Dictionary application first appeared in Tiger.
+	</span>
+	<span class="picture">
+		It's application icon looks like below.<br/>
+		<img src="Images/_internal_dictionary.png" alt="Dictionary.app Icon"/>
+	</span>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="TCP" d:title="TCP">
+	<h1>TCP</h1>
+	<p>
+		The Transmission Control Protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A core protocol of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP.<br/>
+	</p>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="HTTP" d:title="HTTP">
+	<h1>HTTP</h1>
+	<p>
+		The Hypertext Transfer Protocol (HTTP)<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		An application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text.<br/>
+	</p>
+</d:entry>
