@@ -9,4 +9,7 @@ Custom dictionary embedded in OSX dictionary.app
 
 # Other
 To edit the content of dictionary, you can edit css and content of dictionary inMyDictionary.css and MyDictionary.xml.
+
+# Demo
+![demo]()
  
