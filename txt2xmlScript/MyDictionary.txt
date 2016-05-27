@@ -1,0 +1,51 @@
+# TCP
+## Transmission Control Protocol
+A core protocol of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP).
+
+# IP
+## Internet Protocol address (IP address)
+An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication.
+
+# HTTP
+## The Hypertext Transfer Protocol.
+An application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
+
+# FTP
+## The File Transfer Protocol
+A standard network protocol used to transfer computer files between a client and server on a computer network. FTP is built on a client-server model architecture and uses separate control and data connections between the client and the server.
+
+# PPP
+## Point-to-Point Protocol
+A data link (layer 2) protocol used to establish a direct connection between two nodes. It can provide connection authentication, transmission encryption (using ECP, RFC 1968), and compression.
+
+# RFC
+## A Request for Comments
+A formal document from the Internet Engineering Task Force (IETF) that is the result of committee drafting and subsequent review by interested parties. Some RFCs are informational in nature.
+
+# ISP
+## Internet Service Provider
+An Internet Service Provider (ISP) is a company that provides you with access to the Internet, usually for a fee. The most common ways to connect to an ISP are by using a phone line (dial-up) or broadband connection (cable or DSL).
+
+# ADSL
+## Asymmetric Digital Subscriber Line
+A type of digital subscriber line (DSL) technology, a data communications technology that enables faster data transmission over copper telephone lines rather than a conventional voiceband modem can provide.
+
+# LAN
+## Local Area Networks
+A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, or office building. A local area network is contrasted in principle to a wide area network (WAN), which covers a larger geographic distance and may involve leased telecommunication circuits, while the media for LANs are locally managed.
+
+# NAT
+## Network Address Translation
+A method of remapping one IP address space into another by modifying network address information in Internet Protocol (IP) datagram packet headers while they are in transit across a traffic routing device.[1] The technique was originally used for ease of rerouting traffic in IP networks without renumbering every host. It has become a popular and essential tool in conserving global address space allocations in face of IPv4 address exhaustion by sharing one Internet-routable IP address of a NAT gateway for an entire private network.
+
+# NAP
+## Network Access Point
+A Network Access Point (NAP) is a public network exchange facility where Internet service providers (ISPs) connected with one another in peering arrangements. The NAPs were a key component in the transition from the 1990s NSFNET era (when many networks were government sponsored and commercial traffic was prohibited) to the commercial Internet providers of today. They were often points of considerable Internet congestion.
+
+# HFC
+## Hybrid Fiber Coax
+A telecommunications industry term for a broadband network that combines optical fiber and coaxial cable. It has been commonly employed globally by cable television operators since the early 1990s.
+
+# API
+## Application Programmer Interface
+A set of routines, protocols, and tools for building software applications. An API specifies how software components should interact and APIs are used when programming graphical user interface (GUI) components.
