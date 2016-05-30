@@ -4,7 +4,7 @@ Custom dictionary embedded in OSX dictionary.app
 # Usage
 1. Move the directory 'DictionaryDevelopmentKit' to '/Applications/Utilities'.
 2. Run Make to build .dictionary file.
-3. Move 'objects/dictName.dictionary' to '~/Library/Dictionaries'. 
+3. Move 'objects/dictName.dictionary' to 'Library/Dictionaries'. 
 4. Reopen dictionary.app and add newly built dictionary in Preference.
 
 # About XML file
