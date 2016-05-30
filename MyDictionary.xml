@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	This is a sample dictionary source file.
-	It can be built using Dictionary Development Kit.
--->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
-
-<d:entry id="dictionary_application" d:title="Dictionary application">
-	<d:index d:value="Dictionary application"/>
-	<h1>Dictionary application </h1>
-	<p>
-		An application to look up dictionary on Mac OS X.<br/>
-	</p>
-	<span class="column">
-		The Dictionary application first appeared in Tiger.
-	</span>
-	<span class="picture">
-		It's application icon looks like below.<br/>
-		<img src="Images/_internal_dictionary.png" alt="Dictionary.app Icon"/>
-	</span>
-</d:entry>
 
 <d:entry id="TCP" d:title="TCP">
 	<d:index d:value="TCP"/>
 	<h1>TCP</h1>
 	<p>
-		The Transmission Control Protocol<br/>
+		Transmission Control Protocol<br/>
 	</p>
 	<h3>Definition</h3>
 	<p>
-		A core protocol of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP.<br/>
+		A core protocol of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP).<br/>
+	</p>
+</d:entry>
+
+<d:entry id="IP" d:title="IP">
+	<d:index d:value="IP"/>
+	<h1>IP</h1>
+	<p>
+		Internet Protocol address (IP address)<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication.<br/>
 	</p>
 </d:entry>
 
@@ -36,11 +29,275 @@
 	<d:index d:value="HTTP"/>
 	<h1>HTTP</h1>
 	<p>
-		The Hypertext Transfer Protocol (HTTP)<br/>
+		The Hypertext Transfer Protocol.<br/>
 	</p>
 	<h3>Definition</h3>
 	<p>
-		An application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text.<br/>
+		An application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="FTP" d:title="FTP">
+	<d:index d:value="FTP"/>
+	<h1>FTP</h1>
+	<p>
+		The File Transfer Protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A standard network protocol used to transfer computer files between a client and server on a computer network. FTP is built on a client-server model architecture and uses separate control and data connections between the client and the server.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="PPP" d:title="PPP">
+	<d:index d:value="PPP"/>
+	<h1>PPP</h1>
+	<p>
+		Point-to-Point Protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A data link (layer 2) protocol used to establish a direct connection between two nodes. It can provide connection authentication, transmission encryption (using ECP, RFC 1968), and compression.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="RFC" d:title="RFC">
+	<d:index d:value="RFC"/>
+	<h1>RFC</h1>
+	<p>
+		A Request for Comments<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A formal document from the Internet Engineering Task Force (IETF) that is the result of committee drafting and subsequent review by interested parties. Some RFCs are informational in nature.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="ISP" d:title="ISP">
+	<d:index d:value="ISP"/>
+	<h1>ISP</h1>
+	<p>
+		Internet Service Provider<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		An Internet Service Provider (ISP) is a company that provides you with access to the Internet, usually for a fee. The most common ways to connect to an ISP are by using a phone line (dial-up) or broadband connection (cable or DSL).<br/>
+	</p>
+</d:entry>
+
+<d:entry id="ADSL" d:title="ADSL">
+	<d:index d:value="ADSL"/>
+	<h1>ADSL</h1>
+	<p>
+		Asymmetric Digital Subscriber Line<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A type of digital subscriber line (DSL) technology, a data communications technology that enables faster data transmission over copper telephone lines rather than a conventional voiceband modem can provide.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="LAN" d:title="LAN">
+	<d:index d:value="LAN"/>
+	<h1>LAN</h1>
+	<p>
+		Local Area Networks<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, or office building. A local area network is contrasted in principle to a wide area network (WAN), which covers a larger geographic distance and may involve leased telecommunication circuits, while the media for LANs are locally managed.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="NAT" d:title="NAT">
+	<d:index d:value="NAT"/>
+	<h1>NAT</h1>
+	<p>
+		Network Address Translation<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A method of remapping one IP address space into another by modifying network address information in Internet Protocol (IP) datagram packet headers while they are in transit across a traffic routing device.[1] The technique was originally used for ease of rerouting traffic in IP networks without renumbering every host. It has become a popular and essential tool in conserving global address space allocations in face of IPv4 address exhaustion by sharing one Internet-routable IP address of a NAT gateway for an entire private network.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="NAP" d:title="NAP">
+	<d:index d:value="NAP"/>
+	<h1>NAP</h1>
+	<p>
+		Network Access Point<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A Network Access Point (NAP) is a public network exchange facility where Internet service providers (ISPs) connected with one another in peering arrangements. The NAPs were a key component in the transition from the 1990s NSFNET era (when many networks were government sponsored and commercial traffic was prohibited) to the commercial Internet providers of today. They were often points of considerable Internet congestion.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="HFC" d:title="HFC">
+	<d:index d:value="HFC"/>
+	<h1>HFC</h1>
+	<p>
+		Hybrid Fiber Coax<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A telecommunications industry term for a broadband network that combines optical fiber and coaxial cable. It has been commonly employed globally by cable television operators since the early 1990s.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="API" d:title="API">
+	<d:index d:value="API"/>
+	<h1>API</h1>
+	<p>
+		Application Programmer Interface<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A set of routines, protocols, and tools for building software applications. An API specifies how software components should interact and APIs are used when programming graphical user interface (GUI) components.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="UDP" d:title="UDP">
+	<d:index d:value="UDP"/>
+	<h1>UDP</h1>
+	<p>
+		User Datagram Protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		One of the core members of the Internet protocol suite. UDP uses a simple connectionless transmission model with a minimum of protocol mechanism.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="Best-effort " d:title="Best-effort ">
+	<d:index d:value="Best-effort "/>
+	<h1>Best-effort </h1>
+	<p>
+		Best-effort <br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		Best-effort delivery describes a network service in which the network does not provide any guarantees that data is delivered or that a user is given a guaranteed quality of service level or a certain priority. In a best-effort network all users obtain best-effort service, meaning that they obtain unspecified variable bit rate and delivery time, depending on the current traffic load. It can be contrasted with reliable delivery, which can be built on top of best-effort delivery (possibly without latency and throughput guarantees), or with circuit switching schemes which maintain a defined, continuous quality of service.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="RDT " d:title="RDT ">
+	<d:index d:value="RDT "/>
+	<h1>RDT </h1>
+	<p>
+		Reliable Data Transfer protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		(To be added)<br/>
+	</p>
+</d:entry>
+
+<d:entry id="ICMP" d:title="ICMP">
+	<d:index d:value="ICMP"/>
+	<h1>ICMP</h1>
+	<p>
+		The Internet Control Message Protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		One of the main protocols of the internet protocol suite. It is used by network devices, like routers, to send error messages indicating, for example, that a requested service is not available or that a host or router could not be reached.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="CIDR" d:title="CIDR">
+	<d:index d:value="CIDR"/>
+	<h1>CIDR</h1>
+	<p>
+		Classless Inter-Domain Routing<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A method for allocating IP addresses and routing Internet Protocol packets. The Internet Engineering Task Force introduced CIDR in 1993 to replace the previous addressing architecture of classful network design in the Internet. Its goal was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="DHCP" d:title="DHCP">
+	<d:index d:value="DHCP"/>
+	<h1>DHCP</h1>
+	<p>
+		The Dynamic Host Configuration Protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A client/server protocol that automatically provides an Internet Protocol (IP) host with its IP address and other related configuration information such as the subnet mask and default gateway.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="WAN" d:title="WAN">
+	<d:index d:value="WAN"/>
+	<h1>WAN</h1>
+	<p>
+		Wide Area Network<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A telecommunications network or computer network that extends over a large geographical distance. Wide area networks are often established with leased telecommunication circuits.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="IGP" d:title="IGP">
+	<d:index d:value="IGP"/>
+	<h1>IGP</h1>
+	<p>
+		Interior Gateway Protocols<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A type of protocol used for exchanging routing information between gateways (commonly routers) within an autonomous system (for example, a system of corporate local area networks). This routing information can then be used to route network-layer protocols like IP.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="RIP " d:title="RIP ">
+	<d:index d:value="RIP "/>
+	<h1>RIP </h1>
+	<p>
+		Routing Information Protocol<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		One of the oldest distance-vector routing protocols which employ the hop count as a routing metric. RIP prevents routing loops by implementing a limit on the number of hops allowed in a path from source to destination.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="OSPF" d:title="OSPF">
+	<d:index d:value="OSPF"/>
+	<h1>OSPF</h1>
+	<p>
+		Open Shortest Path First<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		A routing protocol for Internet Protocol (IP) networks. It uses a link state routing algorithm and falls into the group of interior routing protocols, operating within a single autonomous system (AS).<br/>
+	</p>
+</d:entry>
+
+<d:entry id="QOS" d:title="QOS">
+	<d:index d:value="QOS"/>
+	<h1>QOS</h1>
+	<p>
+		Quality of Service<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		The capability of a network to provide better service to selected network traffic over various technologies, including Frame Relay, Asynchronous Transfer Mode (ATM), Ethernet and 802.1 networks, SONET, and IP-routed networks that may use any or all of these underlying technologies.<br/>
+	</p>
+</d:entry>
+
+<d:entry id="MAC" d:title="MAC">
+	<d:index d:value="MAC"/>
+	<h1>MAC</h1>
+	<p>
+		Medium Access Control<br/>
+	</p>
+	<h3>Definition</h3>
+	<p>
+		In the IEEE 802 reference model of computer networking, the medium access control or media access control (MAC) layer is the lower sublayer of the data link layer (layer 2) of the seven-layer OSI model. The MAC sublayer provides addressing and channel access control mechanisms that make it possible for several terminals or network nodes to communicate within a multiple access network that incorporates a shared medium, e.g. an Ethernet network. The hardware that implements the MAC is referred to as a media access controller.<br/>
 	</p>
 </d:entry>
 

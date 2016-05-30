@@ -49,3 +49,51 @@ A telecommunications industry term for a broadband network that combines optical
 # API
 ## Application Programmer Interface
 A set of routines, protocols, and tools for building software applications. An API specifies how software components should interact and APIs are used when programming graphical user interface (GUI) components.
+
+# UDP
+## User Datagram Protocol
+One of the core members of the Internet protocol suite. UDP uses a simple connectionless transmission model with a minimum of protocol mechanism.
+
+# Best-effort 
+## Best-effort 
+Best-effort delivery describes a network service in which the network does not provide any guarantees that data is delivered or that a user is given a guaranteed quality of service level or a certain priority. In a best-effort network all users obtain best-effort service, meaning that they obtain unspecified variable bit rate and delivery time, depending on the current traffic load. It can be contrasted with reliable delivery, which can be built on top of best-effort delivery (possibly without latency and throughput guarantees), or with circuit switching schemes which maintain a defined, continuous quality of service.
+
+# RDT 
+## Reliable Data Transfer protocol
+(To be added)
+
+# ICMP
+## The Internet Control Message Protocol
+One of the main protocols of the internet protocol suite. It is used by network devices, like routers, to send error messages indicating, for example, that a requested service is not available or that a host or router could not be reached.
+
+# CIDR
+## Classless Inter-Domain Routing
+A method for allocating IP addresses and routing Internet Protocol packets. The Internet Engineering Task Force introduced CIDR in 1993 to replace the previous addressing architecture of classful network design in the Internet. Its goal was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.
+
+# DHCP
+## The Dynamic Host Configuration Protocol
+A client/server protocol that automatically provides an Internet Protocol (IP) host with its IP address and other related configuration information such as the subnet mask and default gateway.
+
+# WAN
+## Wide Area Network
+A telecommunications network or computer network that extends over a large geographical distance. Wide area networks are often established with leased telecommunication circuits.
+
+# IGP
+## Interior Gateway Protocols
+A type of protocol used for exchanging routing information between gateways (commonly routers) within an autonomous system (for example, a system of corporate local area networks). This routing information can then be used to route network-layer protocols like IP.
+
+# RIP 
+## Routing Information Protocol
+One of the oldest distance-vector routing protocols which employ the hop count as a routing metric. RIP prevents routing loops by implementing a limit on the number of hops allowed in a path from source to destination.
+
+# OSPF
+## Open Shortest Path First
+A routing protocol for Internet Protocol (IP) networks. It uses a link state routing algorithm and falls into the group of interior routing protocols, operating within a single autonomous system (AS).
+
+# QOS
+## Quality of Service
+The capability of a network to provide better service to selected network traffic over various technologies, including Frame Relay, Asynchronous Transfer Mode (ATM), Ethernet and 802.1 networks, SONET, and IP-routed networks that may use any or all of these underlying technologies.
+
+# MAC
+## Medium Access Control
+In the IEEE 802 reference model of computer networking, the medium access control or media access control (MAC) layer is the lower sublayer of the data link layer (layer 2) of the seven-layer OSI model. The MAC sublayer provides addressing and channel access control mechanisms that make it possible for several terminals or network nodes to communicate within a multiple access network that incorporates a shared medium, e.g. an Ethernet network. The hardware that implements the MAC is referred to as a media access controller.
